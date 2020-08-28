@@ -4,6 +4,7 @@ m = int(input())
 x = list(map(int,input().split()))
 
 for i in x:
+
     if(i in a):
         print(1)
     else:
